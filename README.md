@@ -21,7 +21,6 @@ A simple web app to (mock) classify frog sounds by species.
 3. Open the provided local URL in your browser.
 
 ---
-*Note: This app uses a mock classifier. For real predictions, you would need a trained model.* # ribbit
-# frogidenitifer
-# ribbit
-# ribbit
+#Machine Learning Model
+I used Scikit Random forest classifier, though in the future I would want to move to tensorflow.
+I also could not find any dataset of frog noises, so I made my own in the program, but I need to upload many more frog noises and train.
