@@ -24,3 +24,4 @@ A simple web app to (mock) classify frog sounds by species.
 *Note: This app uses a mock classifier. For real predictions, you would need a trained model.* # ribbit
 # frogidenitifer
 # ribbit
+# ribbit
