@@ -21,4 +21,4 @@ A simple web app to (mock) classify frog sounds by species.
 3. Open the provided local URL in your browser.
 
 ---
-*Note: This app uses a mock classifier. For real predictions, you would need a trained model.* 
+*Note: This app uses a mock classifier. For real predictions, you would need a trained model.* # ribbit
