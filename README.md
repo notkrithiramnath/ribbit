@@ -1,6 +1,6 @@
 # Frog Sound Classifier 🐸
 
-A simple web app to classify frog sounds by species.
+A simple web app to classify frog sounds by species, first time trying vibecoding (you can tell).
 
 ## Features
 - Upload a frog sound (WAV/MP3)
